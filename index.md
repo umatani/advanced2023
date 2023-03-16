@@ -21,7 +21,7 @@
     - [概要]()
 
 1. アプリケーション開発におけるデータベース設計（桑原）
-    - [概要](発展演習-桑原-2023-3-31.pdf)
+    - [概要](発展演習-桑原-2023-3-31ver2.pdf)
 
 1. 自然言語解析器を用いた実験（後藤）
     - [概要](http://angelos.info.kanagawa-u.ac.jp/tgl/Lecture/NLP_Experiments.html)
