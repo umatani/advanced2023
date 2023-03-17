@@ -24,7 +24,7 @@
     - [概要](発展演習-桑原-2023-3-31ver2.pdf)
 
 1. 自然言語解析器を用いた実験（後藤）
-    - [概要](http://angelos.info.kanagawa-u.ac.jp/tgl/Lecture/NLP_Experiments.html)
+    - [概要](情報科学発展演習_後藤担当.pdf)
 
 1. ホロレンズを使った混合現実の応用（張）
     - [概要](発展演習２０２３張.pdf)
